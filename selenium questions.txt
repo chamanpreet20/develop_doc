@@ -1,0 +1,20 @@
+- Diff bet verify and assert
+- Explicit and implicit wait
+- how to write xpaths
+- findelement and findelements
+- framework used
+- How do u handle exceptions
+- fetch data from table, dropdown, radio list.
+- If frame with Id and name is not given, what will u chose to identify
+- absolute and relative xpath
+- TestNG
+- import file using POI
+- Upload file by ROBOT
+-get the address of all the open browser- getWindowhandles()
+-get the address of the current browser- getWindowhandle
+- switch to frame, switch back from frame 
+- AUTOIT- to handle window GUI and non-HTML popups
+- How u Work with different browsers - desired capability
+- how u take Screenshots - using listener
+- get data from excel and store it before using
+- How Fetching different datatypes from file.? Ex- string, int, date format.

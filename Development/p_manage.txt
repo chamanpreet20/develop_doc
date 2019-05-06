@@ -1,0 +1,28 @@
+project charter
+business case
+5 process grps, 10 knowledge areas, 49 processes
+
+5 process groups-
+Initiating processes
+Planning processes
+Executing
+Monitoring and controlling
+Closing
+
+Process grps fall in each and every phases
+
+knowledge area has tools techniques, input and output
+
+project, program, portfolio
+
+organisational project management
+
+project life cycle, product lifecycle
+
+project life cycle- phases can be sequential or overlapping (fast tracking and crashing)
+
+product lifecycle- happen after project life cycle, can generate multiple projects
+
+types of development lifecycle- Predictive, adaptive, hybrid, iterative, incremental
+
+Predictive life cycle- example is waterfall model- upfront planning

@@ -1,0 +1,8 @@
+TFS- learned
+shared steps
+shared parameters
+Create requirement based suites
+Create query based suites
+Fetch test cases with bugs in current sprint to use in regression
+
+

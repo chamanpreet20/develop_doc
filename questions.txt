@@ -1,0 +1,29 @@
+Regression n retesting
+test design- fields
+when a bug is reported as showstopper/critical
+what all includes in defect report n test report
+tracebility matrix- columns
+test scenerio n test cases
+Sanity vs smoke
+How to select regression test cases.
+Status of deffered bug.
+test cases for gmail/ online shopping site/ ATM
+Test coverage/completeness of test case- how?
+testing practice you use
+test bed
+acceptance testing
+showstopper and critical bug
+defect density
+
+
+scenerios- 
+
+-- you have a movie download site which shows movie list based on most recently watched , 
+most popular (based on rating) and newest released. How would you test these 3 scenerios.
+
+--test cases for online shopping site.
+
+-- how would you test search engine which shows tags - most searched with largest in size, and decreasing size based on less searched.
+
+-- based on from and to date search result displays, best 3 test cases.
+-- execute 1000 test cases only in a day? how will you manage?

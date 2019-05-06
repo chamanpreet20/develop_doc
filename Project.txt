@@ -1,0 +1,52 @@
+ATUM- ATUM help analysts to update financial model. The solution is a web-based application, developed in Microsoft ASP.NET.ATUM intends to work as retrieving the declared financials data from web based sources, process and distribute to analyst for model updates.
+Various functional modules-
+1	Scheduler
+2	Data Extractor
+3	PDF to HTML Convertor 
+4	HTML Parser Requirements 
+
+It is one of the major project and recieved appreciations from client.
+
+
+EIU-
+PMS- Performance management system- Various updations were made to this tool and new feature PIA was added.
+
+Sign in/out- This enabled users to make login entry with access card instead of online tool.  Initially users had to sign in and signout daily using tool but with implementation of this project, entry is made automatically with just swipe of access card.
+This project involved creating of test cases for all possible scenerios including different shifts and locations.
+Writing queries to pull out data related to emp codes and their sign in/out timings from live database.
+PErforming testing in real time.
+
+
+TMS- training management system- overall testing of tool to make sure user are able to search, nominate for CBTs and attend classroom trainings. Calculation of trainings attended based on which rating is given. login as admin, TDT, manager, evaluatee, HR based on rights to approve, reject trainings and provide niminations.
+
+Innovation central portal- This portal act as a repository for all innovation related information. It was website testing which include testing of games, videos, webinars, static data, dynamic data integrated with other web applications.This was launched on 13th anniversary of company which was celebrated as innovation day and was a big success. It is build in Dot net and share point.
+
+RMS- Research management solution/ credit suisse - This is a medium by which clients raise their request and work is assigned to responsible team. It also provide features to keep track of status, fill timesheets and provide feedback.It enables the management and streamlining of a request lifecycle, from request submission, prioritization and allocation, to tracking and completion.Users can easily search content across requests, deliverables, and knowledge documents.
+
+Responsibilities- analysing requirement and preparing test schedule keeping in mind UAT date.
+- gathering requirement and Writing test cases.
+- smoke testing of application.
+- test execution and reporting of bugs.
+- retesting of bugs and regression.
+- reporting status and intimating risks in daily status meetings.
+
+Enhancements and new implementations of RMS- Tested and delivered 12 implementations till now in stringent deadlines.All implemetations included complete flow starting from gathering information, creating test cases, executing cases, reporting bugs, restesting, regression and sign off.
+
+
+SNAP- SNAP creates summaries of news articles by using artificial intelligence (AI) to fetch and index news and carry out natural language processing. 
+
+LHSC- Pharma Intelligence is a portal through which a customer can purchase reports on drugs available
+globally for any indication. These reports reflect drug use and market value in current scenerio and 
+launch prediction for next 5 years.
+
+
+
+
+
+
+
+
+
+
+
+

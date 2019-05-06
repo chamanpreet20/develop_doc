@@ -1,0 +1,79 @@
+continue- delivering work with quality and on time, working on selenium and jmeter to gain expertise, taking complete owwnership of projects, being a team player, handling projects independently, communicating risk to avoid delays, providing testing estimates, utilizing time for self development.
+start- leading projects, reviewing them, practively participating in meetings and open discussions, learn selenium RC and ditributed load testing using master slave.
+stop- accepting things communicated verbally. Will ask for requirement in written for each and every point.
+
+CSS 2018
+continue- - Leading and delivering work with quality on time,
+ - Learning latest technologies and tools like cucumber, Jenkins, load testing for mobile apps, Maven, protractor, 
+ - Bringing new challenges and ideas on table and implementing in team like in case of hybrid framework upgradation,
+ - Sharing knowledge with team by organizing knowledge sessions,
+ - Providing technical help to team members,
+ - Guiding to improve and increase efficiency of work
+
+start- - - Pushing team to give their best instead of taking over their challenges and be readily available every time.
+
+stop- - Making emotional decisions
+- Overlooking minor concerns and making adjustments at own end.
+
+CSS Year end 2018-
+ - Leading and delivering work with quality on time like for projects Pharmafusion, SNAP, RMS, Scientia, 
+ - Learning latest technologies and tools like cucumber, Jenkins, load testing for mobile apps, Maven, protractor, Github and Jenkins using    freestyle, pipeline and maven project type.
+ - Bringing new challenges and ideas on table and implementing in team like in case of hybrid framework upgradation.
+ - Introducing new reporting features in load testing like dashboard reports, sharing client ready test plans, reports for automation testing    and load testing like for Insight load testing, Syngenta load testing, RMS automation.
+ - Implementing new concepts in Jmeter for tackling various challenges like handling asynchronous requests, correlating links in encoded form,    saving output files in same format, handling polling requests by while controller, 
+ - Load testing API requests and running in multiple machines simultaneously like for pitchready API.
+ - Sharing challenges, improvements, solutions required in process through mails to team like did for automation past common issues faced, solution to create maven project behind proxy.
+ - Sharing knowledge with team by organizing knowledge sessions like did for load testing,
+ - Providing technical help to team members,
+ - Guiding to improve and increase efficiency of work
+ - One to one session for understanding Devops and its implementation in our department.
+
+Trainings-
+Completed 1.23 hours of protractor training from plural sight
+Completed 14 hours protractor training from udemy- https://www.udemy.com/protractor-tutorial/learn/v4/overview
+Completed DevOps training from pluralsight
+
+
+Respodents-
+Monu
+Mridul
+Suresh
+Sarvjit
+Rohit
+
+
+2018 assess-
+Test suite- complete suite optimisation including macros for repetitive work to save efforts
+Automation of pharmafusion- prepared test plan, complete framework, used multiple tools- jenkins, github, maven.
+VSTS load testing
+Exploring TFS
+Learn Jenkin features
+Learn cucumber with selenium
+Load testing for mobile apps
+Learn Protractor
+Automation of RMS- hybrid framework
+
+
+2018 projects-
+Did and managed pharma
+Handled HRSS, apphelpdesk, KPMG, 
+performance- Rsearch stream and comps
+KPMG estimation
+Did KMS 
+performance- syngenta- client ready document
+
+
+
+2018 extras-
+ACE PACE certification
+Conducted Load testing training
+undergone udemy protractor training
+
+
+
+2018 goals-
+-- Use cucumber framework using BDD approach in selenium for acceptance testing.
+-- Use Jenkins for continuous integration for Maven, selenium and Git projects using freestyle, pipeline and maven project type.
+-- Responsible for performing load testing for mobile apps using Jmeter
+
+

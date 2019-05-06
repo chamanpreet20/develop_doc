@@ -1,0 +1,29 @@
+continue- delivering work with quality and on time, working on selenium and jmeter to gain expertise, taking complete owwnership of projects, being a team player, handling projects independently, communicating risk to avoid delays, providing testing estimates, utilizing time for self development.
+start- leading projects, reviewing them, practively participating in meetings and open discussions, learn selenium RC and ditributed load testing using master slave.
+stop- accepting things communicated verbally. Will ask for requirement in written for each and every point.
+
+
+-- provided inputs in fish bone analysis for Root cause.
+-- performed load testing
+-- delivered your project on time, within budget and to your client’s entire satisfaction
+
+2018
+-- Use cucumber framework using BDD approach in selenium for acceptance testing.
+-- Use Jenkins for continuous integration for Maven, selenium and Git projects using freestyle, pipeline and maven project type.
+-- Responsible for performing load testing for mobile apps using Jmeter
+
+
+•	Developed BDD (Behaviour Driven Development (BDD) framework which is used with Selenium for performing acceptance testing.) tests using Cucumber by writing behaviours and step definitions. Developed required Selenium support code in JAVA.
+•	Assisted Manager by providing automation strategies, Selenium/Cucumber Automation.
+•   Generated feature files using Cucumber 
+1 year of experience in BDD framework using cucumber and selenium 
+•	Working on BDD framework using Cucumber, Web Driver, Java and eclipse.
+
+
+•	Saved 30% time and cost of testing by automation using Selenium WebDriver, JAVA, Cucumber
+•	Increased productivity by 20% by effectively training, leading and managing the AGILE automation team
+•	Achieved customer satisfaction and high quality by effective Automation testing, AGILE Processes
+Strong experience in Test Automation Tools and Frameworks like Cucumber, Selenium Web Driver, JMeter, TestNG
+•	Proven ability in developing BDD scripts with Cucumber and writing step definitions for behaviour
+•	Implemented automation using Selenium WebDriver, JAVA, Cucumber, Junit 
+•	Developed BDD tests using Cucumber by writing behaviours and step definitions. Developed required Selenium support code in JAVA for Cucumber.

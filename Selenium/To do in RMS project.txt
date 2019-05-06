@@ -1,0 +1,6 @@
+use @beforesuite- done
+@aftersuite
+
+Explicit wait wherever syncronisation issue
+properties file as object repository
+verbose in testing.xml- done

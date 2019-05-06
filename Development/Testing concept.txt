@@ -1,0 +1,9 @@
+different browsers - Edge, Internet explorer, Firefox, Chrome, Netscape navigator, AOL, Safari, Opera browsers 
+
+operating systems - Windows, Unix, MAC, Linux, Solaris with different OS flavors.
+
+
+Sauce lab- 
+
+Username- chaman	
+Pswd- preet
